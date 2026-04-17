@@ -81,8 +81,9 @@ Grade: B
 4. Update file
 5. Return to menu
 6. Exit when user selects exit option
+## Flowchart
+ <img width="227" height="222" alt="image" src="https://github.com/user-attachments/assets/f3f6d62c-edd7-4ab6-a1c4-c8803864b839" />
 
- 
 
 
 
