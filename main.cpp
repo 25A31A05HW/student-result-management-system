@@ -34,7 +34,7 @@ string subjects[8][10] = {
 
 {
 "Discrete Mathematics and Graph Theory",
-"Universal Human Values – Understanding Harmony",
+"Universal Human Values â€“ Understanding Harmony",
 "Digital Logic and Computer Organization",
 "Advanced Data Structures and Algorithm Analysis",
 "Object Oriented Programming through Java",
